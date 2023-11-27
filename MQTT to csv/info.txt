@@ -1,0 +1,1 @@
+Verbindet sich zum Mqtt Broker und zeigt die Daten: Temperatur & Humidity an. Nach beednung des programmes werden die bisher angezeigten werte mit der  vorhandenen csv datei erweitert (DHT11 & ESP32) 

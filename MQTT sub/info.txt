@@ -1,0 +1,1 @@
+Verbindet sich zum Mqtt Broker und zeigt die Daten: Temperatur & Humidity an. (DHT11 & ESP32) 

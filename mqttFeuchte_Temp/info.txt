@@ -1,0 +1,1 @@
+Über MQTT und dem ESP32 werden jetzt Temp / humutitiy und erdfeuchte (wett) angezeigt
